@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
