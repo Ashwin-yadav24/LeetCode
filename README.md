@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
+| [1929-concatenation-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
