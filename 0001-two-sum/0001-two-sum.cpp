@@ -24,6 +24,6 @@ public:
             }
             mp[nums[i]]=i;
         }
-        return {-1,-1};
+        return {};
     }   
 };
