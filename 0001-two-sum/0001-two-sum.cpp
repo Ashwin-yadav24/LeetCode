@@ -18,12 +18,11 @@ public:
         int n=nums.size();
         map<int,int>mp;
         for(int i=0;i<n;i++){
-            int num=nums[i];
-            int need=target-num;
+            int need=target-nums[i];
             if(mp.find(need) != mp.end()){
                 return {mp[need],i};
             }
-            mp[num]=i;
+            mp[nums[i]]=i;
         }
         return {-1,-1};
     }   
