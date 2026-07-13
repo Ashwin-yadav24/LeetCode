@@ -26,8 +26,8 @@ public:
         int maxProfit=0;
         for(int i=1;i<n;i++){
             minPrice=min(minPrice,prices[i]);
-            int currProfit=prices[i]-minPrice;
-            maxProfit=max(maxProfit,currProfit);
+            // int currProfit=prices[i]-minPrice;
+            maxProfit=max(maxProfit,prices[i]-minPrice);
         }
         return maxProfit;
     }
