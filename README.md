@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1025-divisor-game) |
 ## Array
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0046-permutations) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
