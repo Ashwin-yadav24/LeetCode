@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0268-missing-number) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0075-sort-colors) |
@@ -142,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
