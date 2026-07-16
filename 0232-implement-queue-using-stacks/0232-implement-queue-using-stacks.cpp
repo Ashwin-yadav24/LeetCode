@@ -12,7 +12,7 @@ public:
     }
 
     int pop() {
-        peek();              // Make sure s2 has the front element
+        peek();             
         int val = s2.top();
         s2.pop();
         return val;
