@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1025-divisor-game) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
