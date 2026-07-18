@@ -17,6 +17,6 @@ public:
             mx = max(mx, x);
         }
 
-        return gcd(mn, mx);
+        return gcd(mn,mx);
     }
 };
