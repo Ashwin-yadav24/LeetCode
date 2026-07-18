@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1025-divisor-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
