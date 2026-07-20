@@ -9,12 +9,12 @@ public:
         vector<vector<int>>ans(m,vector<int>(n));
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                int idx = i*n+j;
+                int idx=i*n+j;
 
-                int newIdx= (idx + k)%total;
+                int nIdx=(idx+k)%total;
 
-                int nR=newIdx/n;
-                int nC=newIdx%n;
+                int nR=nIdx/n;
+                int nC=nIdx%n;
 
                 ans[nR][nC]=grid[i][j];
             }
