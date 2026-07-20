@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
+| [1260-shift-2d-grid](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
 | ------- |
