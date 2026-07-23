@@ -32,8 +32,7 @@ public:
             }else if(cnt2 ==0 && el1!=nums[i]){
                 cnt2=1;
                 el2=nums[i];
-            }
-            else if(nums[i]==el1) cnt1++;
+            }else if(nums[i]==el1) cnt1++;
             else if(nums[i]==el2) cnt2++;
             else{
                 cnt1--,cnt2--;
