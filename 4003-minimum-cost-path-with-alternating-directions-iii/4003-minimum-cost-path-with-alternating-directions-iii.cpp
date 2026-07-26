@@ -36,8 +36,8 @@ public:
 
             for(int k=0;k<4;k++){
                 int nx=x+dx[k], ny=y+dy[k];
-               
-                if(nx < 0 || nx >= m || ny < 0 || ny >= n) continue;
+                if(nx<0||nx>=m||ny<0||ny>=n) continue;
+                
 
                 bool ok =(p==0)? (dx[k]==1 || dy[k]==1):(dx[k]==-1 || dy[k]==-1 );
 
