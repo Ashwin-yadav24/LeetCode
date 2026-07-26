@@ -1,21 +1,22 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int left = 0;
-        int right = nums.size() - 1;
-        
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            
-            if (nums[mid] == target) {
-                return mid;
-            } else if (nums[mid] < target) {
-                left = mid + 1;  
+        int L = 0;
+        int R = nums.size() - 1;
+
+        while (L <= R) {
+            // Prevents integer overflow compared to (high - low) / 2
+            int M = L + (R - L) / 2;
+
+            if (nums[M] == target) {
+                return M; // target found
+            } else if (nums[M] < target) {
+                L = M + 1; // search the right half
             } else {
-                right = mid - 1;  
+                R = M - 1; // search the left half
             }
         }
-        
-        return -1;  
+
+        return -1; // target not found
     }
 };
