@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0520-detect-capital) |
+| [1021-remove-outermost-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1021-remove-outermost-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
