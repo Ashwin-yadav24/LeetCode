@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
