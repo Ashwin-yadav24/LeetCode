@@ -15,7 +15,7 @@
 //             ans.push_back(nums1[i++]);
 //         }
 //         while(j<n){
-//             ans.push_back(nums2[j++]); 
+//             ans.push_back(nums2[j++]);
 //         }
 //         for(int i=0;i<m+n;i++){
 //             nums1[i]=ans[i];
@@ -47,3 +47,4 @@ public:
         }
     }
 };
+
