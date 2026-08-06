@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0520-detect-capital) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0268-missing-number) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -424,4 +427,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0185-department-top-three-salaries) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
