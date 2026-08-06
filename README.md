@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0268-missing-number) |
