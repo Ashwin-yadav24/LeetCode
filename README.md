@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0229-majority-element-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0520-detect-capital) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0268-missing-number) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1903-largest-odd-number-in-string) |
