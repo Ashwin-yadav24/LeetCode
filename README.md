@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Rolling Hash
 |  |
 | ------- |
