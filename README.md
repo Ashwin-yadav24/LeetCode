@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0229-majority-element-ii) |
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
+| [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
@@ -467,4 +472,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0075-sort-colors) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
