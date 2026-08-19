@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1539-kth-missing-positive-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
+| [1386-cinema-seat-allocation](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
