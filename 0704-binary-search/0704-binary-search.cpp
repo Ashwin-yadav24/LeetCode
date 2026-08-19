@@ -14,9 +14,10 @@
 //     }
 // };
 
+
+// using recursin
 class Solution {
 public:
-
     int bs(vector<int>& nums,int low,int high,int target){
         if(low>high) return -1;
         int mid=(low+high)/2;
