@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1563-stone-game-v) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1927-sum-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
