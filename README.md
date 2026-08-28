@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Indexed Tree
 |  |
 | ------- |
