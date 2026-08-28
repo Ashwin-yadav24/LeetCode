@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0509-fibonacci-number) |
 ## Number Theory
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
