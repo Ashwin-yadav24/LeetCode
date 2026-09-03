@@ -1,6 +1,10 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        return *partition_point(nums.begin(), nums.end(), [&](int n) { return n > nums.back(); });
+        int mini=INT_MAX;
+        for(int i=0;i<nums.size();i++){
+            mini=min(mini,nums[i]);
+        }
+        return mini;
     }
 };
