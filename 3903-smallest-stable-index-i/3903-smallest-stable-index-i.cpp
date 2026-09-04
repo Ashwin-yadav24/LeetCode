@@ -11,7 +11,7 @@ public:
             for(int j=i;j<n;j++){
                 mini=min(mini,nums[j]);
             }
-            if(maxi-mini <=k){
+            if(maxi - mini <= k){
                 return i;
             }
         }
