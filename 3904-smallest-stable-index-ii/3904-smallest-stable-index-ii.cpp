@@ -15,9 +15,8 @@ public:
         for (int i = 0; i < n; i++) {
             mx = max(mx, nums[i]);
 
-            if (mx - mn[i] <= k) {
+            if (mx - mn[i] <= k)
                 return i;
-            }
         }
 
         return -1;
