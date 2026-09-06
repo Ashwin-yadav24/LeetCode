@@ -1,32 +1,33 @@
 class Solution {
 public:
-int dp[1001][1001];
-int solve(int index1,int index2,string &s,string &t)
-{
-    if(index1 >= s.length()){
-        return (index2 >= t.length())?1:0;
+    int n, m;
+    int dp[1001][1001];
+
+    int solve(int i, int j, string &s, string &t)
+    {
+        if(j == m) return 1;
+        if(i == n) return 0;
+
+        if(dp[i][j] != -1)
+            return dp[i][j];
+
+        int take = 0;
+
+        if(s[i] == t[j])
+            take = solve(i + 1, j + 1, s, t);
+
+        int skip = solve(i + 1, j, s, t);
+
+        return dp[i][j] = take + skip;
     }
 
-    if(index2 >= t.length())    return 1;
+    int numDistinct(string s, string t)
+    {
+        n = s.size();
+        m = t.size();
 
-    if(dp[index1][index2] != -1){
-        return dp[index1][index2];
-    }
+        memset(dp, -1, sizeof(dp));
 
-    int ans = 0;
-    // skip for right now
-    ans += solve(index1+1,index2,s,t);
-
-    if(s[index1] == t[index2]){
-        //take if both character are same 
-        ans += solve(index1+1,index2+1,s,t);
-    }
-
-    return dp[index1][index2] = ans;
-}
-    int numDistinct(string s, string t) {
-        memset(dp,-1,sizeof(dp));
-       int ans = 0;
-       return solve(0,0,s,t); 
+        return solve(0, 0, s, t);
     }
 };
