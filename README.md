@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1872-stone-game-viii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1025-divisor-game) |
 | [1563-stone-game-v](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Brainteaser
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
