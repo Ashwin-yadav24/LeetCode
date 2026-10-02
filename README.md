@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0118-pascals-triangle) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0113-path-sum-ii) |
 | [1096-brace-expansion-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -611,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
