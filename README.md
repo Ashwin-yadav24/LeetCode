@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
