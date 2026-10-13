@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -651,5 +653,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
