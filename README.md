@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0229-majority-element-ii) |
 | [1122-relative-sort-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1122-relative-sort-array) |
+| [1267-count-servers-that-communicate](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Ashwin-yadav24/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ashwin-yadav24/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -677,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1882-process-tasks-using-servers](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ashwin-yadav24/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ashwin-yadav24/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
